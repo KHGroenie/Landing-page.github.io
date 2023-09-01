@@ -30,8 +30,8 @@ body {
 
 hr {
     margin: 20px auto;
-    color: #F05F44;
-    border: 3px solid #F05F44;
+    color: #7aafc1;
+    border: 3px solid #7aafc1;
     max-width: 65px;
     opacity: 1;
     transition: transform 0.5s ease-in-out;
@@ -51,15 +51,15 @@ hr {
 }
 
 .btn-primary {  
-    background-color: #F05F44;  
-    border-color: #F05F44;  
-    --bs-btn-hover-bg: #ee4b08; 
-    --bs-btn-hover-border-color: #ee4b08;
+    background-color: #7aafc1;  
+    border-color: #7aafc1;  
+    --bs-btn-hover-bg: #015978; 
+    --bs-btn-hover-border-color: #015978;
 }
 
 .btn-primary:hover {
-    background-color: #ee4b08;
-    border-color: #ee4b08;
+    background-color: #015978;
+    border-color: #015978;
 }
 
 .btn-xl {
